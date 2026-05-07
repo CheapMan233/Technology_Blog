@@ -19,4 +19,4 @@ Deskflow是一款开源软件，能够在两台电脑上使用同一套键鼠，
 ![屏幕位置](./pictures/屏幕位置配置.png "屏幕位置配置")
 
 ## 问题
-- 目前有一个问题，切到mac上用Windows键盘按win+l（即cmd+l），会触发Windows的锁屏
+- 目前有一个问题，切到mac上用Windows键盘按win+l（即cmd+l），会触发Windows的锁屏，目前只能通过禁用Windows的快捷键来规避，当然也可能是我使用方法有问题。
